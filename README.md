@@ -1,4 +1,4 @@
-# EX-9 THRESHOLDING
+# EX- 8 THRESHOLDING
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:** 09.04.2024<br>
 ### Aim: 
 To segment the image using global thresholding,adaptive thresholding and Otsu's thresholding using OpenCV. 
